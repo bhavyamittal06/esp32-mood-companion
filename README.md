@@ -4,10 +4,10 @@ A tiny desk companion with an animated face. A script on your Mac decides its **
 
 ![demo](demo.png)
 
+
 **Status:** working in the Wokwi simulator. Real-hardware build coming next.
 
-▶ **Try it in your browser:** [Wokwi simulation](YOUR-WOKWI-LINK)
-
+▶ **Try it in your browser:** [Wokwi simulation](https://wokwi.com/projects/481118620147792897)
 ## How it works
 
 ```
