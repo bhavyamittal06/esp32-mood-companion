@@ -96,9 +96,9 @@ Options: `--interval` (seconds between checks), `--count` (stop after N readings
 
 ## Roadmap
 
-- [x] Faces and sounds for six moods
-- [x] Mac script driven by CPU, battery and time of day
-- [x] Simulation in Wokwi
+- [ ] Faces and sounds for six moods
+- [ ] Mac script driven by CPU, battery and time of day
+- [ ] Simulation in Wokwi
 - [ ] Build on real hardware
 - [ ] Wi-Fi control (HTTP or MQTT) instead of USB serial
 - [ ] Button to change mood by hand
@@ -107,4 +107,4 @@ Options: `--interval` (seconds between checks), `--count` (stop after N readings
 
 ## License
 
-MIT (add a `LICENSE` file if you want to publish under this license).
+MIT .
