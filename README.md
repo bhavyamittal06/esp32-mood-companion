@@ -2,7 +2,7 @@
 
 A tiny desk companion with an animated face. A script on your Mac decides its **mood** from how your computer is doing (CPU load, battery, time of day), and an **ESP32** shows that mood on an OLED screen with matching beeps.
 
-![demo](demo.png)
+![demo]
 <img width="2940" height="1511" alt="WhatsApp Image 2026-11-19 at 17 35 01" src="https://github.com/user-attachments/assets/7a196882-98a3-4c96-a6e1-4c589095a1e2" />
 
 
